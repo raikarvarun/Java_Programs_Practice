@@ -29,7 +29,7 @@
 ***** ***** ***** ***** *****
 ***** ***** ***** ***** *****
 */
-class test{
+class Pattern2{
     public static void main(String []arg){
 
         int n = 6 ; 
