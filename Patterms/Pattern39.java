@@ -1,15 +1,15 @@
 /*
 12345
-1234
-123
-12
-1
+2345
+345
+45
+5
 */
-class Pattern36{
+class Pattern39{
     public static void main(String []arg){
         int n = 5;
-        for(int i = n ; i >=1  ;i--){
-            for(int j = 1 ; j <=  i; j++ ){
+        for(int i = 1 ; i <= n   ;i++){
+            for(int j = i ; j <=n; j++ ){
                 System.out.print(j);
             }
             System.out.println();
