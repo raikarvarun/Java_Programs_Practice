@@ -1,11 +1,11 @@
 /*
-    1
-   22
-  333
- 4444
-55555
+    A
+   BB
+  CCC
+ DDDD
+EEEEE
 */
-class Pattern58{
+class Pattern64{
     public static void main(String []arg){
         int n = 5;
         for(int i = 1 ; i <=n   ;i++){
@@ -13,7 +13,7 @@ class Pattern58{
                 System.out.print(" ");
             }
             for(int j = i ; j >=1; j-- ){
-                System.out.print(i);
+                System.out.print((char)(64+i));
             }
             System.out.println();
         }
