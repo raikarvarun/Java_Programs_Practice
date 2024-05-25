@@ -1,21 +1,21 @@
 /*
-15      14      12      9       5
-13      11      8       4
-10      7       3
-6       2
-1
+o       j       f       c       a
+n       i       e       b
+m       h       d
+l       g
+k
 */
-class Pattern81{
+class Pattern89{
     public static void main(String []arg){
         int n = 5;
         int count = ((n+1)*n)/2 ;
         for(int i = 1 ; i <=n   ;i++){
             int c = count;
-            for(int j = i ; j<=n ; j++){
-                System.out.print(c + "\t");
+            for(int j = n ; j>=i ; j--){
+                System.out.print((char)(96+c) + "\t");
                 c-= j ;
             }
-            count-=i+1;
+            count--;
             System.out.println();
         }
         
