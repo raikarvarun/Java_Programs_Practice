@@ -1,0 +1,1 @@
+FROM openjdk:24-ea-3-jdk-oraclelinux9

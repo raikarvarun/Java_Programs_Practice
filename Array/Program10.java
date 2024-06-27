@@ -14,6 +14,7 @@ class Program10
             a[i] = a[i+1];
         }
         a[a.length-1] = temp;
+        
         for(int i = 0 ; i < a.length  ; i++)
             System.out.print(a[i]+" ");        
     }
