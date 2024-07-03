@@ -26,5 +26,33 @@
 
 14) WAP to reverse an array without using third variable.
 
+15) WAP to display max element from array.
 
+16) WAP to display second max element from array.
 
+17) WAP to reverse each element from an array.  
+
+18) WAP to find 83rd palindrome number.
+
+19) WAP to find 37th prime number.
+
+20) WAP to display first 45 prime number in reverse order.
+
+21) WAP to find 34 th armstrong number.
+
+22) WAP to display 58th perfect square.
+
+23) WAP to display first 51 perfect cube  in reverse order.
+
+24) WAP to find 63 rd twisted prime number.
+
+25) WAP to find 72th  palindromic prime number.
+
+26) input: { 217,3475,3852,371,578,27,59,12,2674 }
+    output = { 721,5347,2385,137,857,72,95,21,4267 }
+
+27) input: { 217,3475,3852,371,578,27,59,12,2674 }
+    output = { 172,4753,8523,713,785,72,95,21,6742 }
+
+28) input: { 217,3475,3852,371,578,27,59,12,2674 }
+    output = { 127,3457,2358,137,578,27,59,12,2467 }
